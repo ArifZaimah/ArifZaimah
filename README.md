@@ -1,5 +1,5 @@
 ## Hi there 👋 Just started to work as a Full Stack Developer, pray for me
-Also let me know if you have any suggestion for my profile, I really have ni idea what to add, can reach me out at my social medias. TQ.
+Also let me know if you have any suggestion for my profile, I really have no idea what to add, can reach me out at my social medias. TQ.
 
 <!--
 **ArifZaimah/ArifZaimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

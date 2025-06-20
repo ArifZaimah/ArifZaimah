@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Just started to work as a Full Stack Developer, pray for me
 
 <!--
 **ArifZaimah/ArifZaimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
